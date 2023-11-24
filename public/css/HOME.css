@@ -1,0 +1,142 @@
+.hero-section{
+    background-color:#264653;
+  
+}
+
+
+
+.hero-font-big{
+    color: white;
+    font-size:48px;
+    font-weight:600;
+}
+
+.hero-font-small{
+    color:#E0E0E0;
+    font-size:16px;
+  
+}
+
+.hero-font-very-small{
+    color:#ffffff;
+    font-size:14px;
+   
+}
+
+.purchase{
+    background-color:#E76F51;
+  
+    width: 168px;
+    height: 44px;
+    border-radius:5px;
+    color:white;
+    font-size: 18px;
+  
+}
+
+
+.hero-image img{
+    width:552px;
+    height:447px;
+
+}
+
+.featured-bike h1{
+    color: black;
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.featured-bike p{
+    color: #E76F51;
+    font-weight: 600;
+    font-size:14px;
+    margin-top:-40px;
+
+}
+
+.honda-grey-scale img{
+    width: 288px;
+    height:243px;
+    filter: grayscale(100%);
+
+}
+
+
+.honda img{
+    width: 288px;
+    height:243px;
+}
+.latest-news{
+    height:539px;
+    width:337px;
+    border: 1px solid grey;
+    border-radius:10px;
+    padding:20px;
+}
+
+.read-more{
+    width:160px;
+    height:57px;
+    background-color:#E76F51;
+    border-radius:10px;
+    color: white;
+}
+
+.button-outline{
+    width:160px;
+    height:57px;
+
+    border-radius:10px;
+}
+.latest-news h1{
+    color:#0A0826;
+}
+
+.happy-clients h1{
+    font-weight: 600;
+    font-size:48px;
+    color: #0A0826;
+}
+
+.read-more{
+    background-color: E76F51;
+}
+
+.box{
+    width: 322px;
+    height: 478px;
+    border: 1px solid #dedede;
+    padding:40px 35px;
+    border-radius:5px;
+}
+
+.box img{
+    width:149px;
+    height: 149px;
+
+}
+
+.accordion-img img{
+    width:432px;
+    height:424px;
+}
+
+.why-love h1{
+    color:#E76F51;
+}
+
+.more-info-box{
+    height: 350px;
+    background-color:white;
+    border-radius: 15px;
+    padding:20px;
+}
+.more-info{
+    background-image: url("images/back.jpg");
+  
+   }
+
+   .footer-part{
+       background-color: #264653;
+   }
