@@ -38,7 +38,7 @@
                     <ul class="list-unstyled">
                       <li><a href="https://www.pinterest.com/top_rated_shopping/" target="_blank"  style="text-decoration:none"><i class="fab fa-pinterest"></i>&nbsp;&nbsp;Pinterest</a></li>
                       <li><a href="https://www.facebook.com/bappi1973" target="_blank"  style="text-decoration:none"><i class="fab fa-facebook"></i>&nbsp;&nbsp;Facebook</a></li>
-                      <li><a href="https://github.com/cbappi" target="_blank"  style="text-decoration:none"><i class="fab fa-youtube"></i>&nbsp;&nbsp;YouTube</a></li>
+                      <li><a href="https://www.youtube.com/channel/UClejSvlnl1GZ91BtYADxJLw" target="_blank"  style="text-decoration:none"><i class="fab fa-youtube"></i>&nbsp;&nbsp;YouTube</a></li>
                       <li><a href="https://linkedin.com/in/abdul-wahed-bhuiyan-16a26920b/" target="_blank"  style="text-decoration:none"><i class="fab fa-linkedin"></i>&nbsp;&nbsp;LinkedIn</a></li>
 
                     </ul>
