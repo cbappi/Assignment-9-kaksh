@@ -2,9 +2,6 @@
 
 @section('content')
 
-    {{-- @include('Component.takecare') --}}
-
-
 
 
     <div class="container mt-5">
@@ -17,7 +14,7 @@
                     <img src="{{asset('images/content-11.jpg')}}"  class="card-img-top" alt="Project 1">
                     <div class="card-body">
                         <h5 class="card-title">Project - Content Writing</h5>
-                        <p class="card-text">Description of Project 1 goes here. Provide some details about what the project is about and the technologies used.</p>
+                        <p class="card-text">For website www.shoppingreview100.com, I provided categories and based on these categories I wrote contents. Content quantity more than fifteen</p>
                         <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
@@ -29,7 +26,7 @@
                     <img src="{{asset('images/seo-1.jpg')}}" class="card-img-top" alt="Project 2">
                     <div class="card-body">
                         <h5 class="card-title">Project - Website SEO</h5>
-                        <p class="card-text">Description of Project 2 goes here. Provide some details about what the project is about and the technologies used.</p>
+                        <p class="card-text">Every website needs organic traffic but sometime need paid traffic also. For website www.shoppingreview100.com, I applied seo tricks as well as  made keyword reaseach</p>
                         <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
@@ -41,7 +38,7 @@
                     <img src="{{asset('images/adword-1.jpg')}}" class="card-img-top" alt="Project 3">
                     <div class="card-body">
                         <h5 class="card-title">Project - Google Ad Setup</h5>
-                        <p class="card-text">Description of Project 3 goes here. Provide some details about what the project is about and the technologies used.</p>
+                        <p class="card-text">For website www.shoppingreview100.com, I made google campaign for this site, this site sell affiliate products and accordingly google ad setup created by me.</p>
                         <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
@@ -50,19 +47,17 @@
     </div>
 
 
-    </body>
-    </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
 @endsection
+
+
+
+
+
+
+
+
+
+
+
+
+

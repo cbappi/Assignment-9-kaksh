@@ -16,16 +16,16 @@
         @include('Layout.include.customcss')
 </head>
 <body>
-    
-<header>
-        @include('Layout.include.navbar')
-</header>
 
-        @yield('content')
+            <header>
+                    @include('Layout.include.navbar')
+            </header>
 
-        @include('Layout.include.footer')
+            @yield('content')
 
-        @include('Layout.include.bootstrapscript')
+            @include('Layout.include.footer')
+
+            @include('Layout.include.bootstrapscript')
 </body>
 
 </html>

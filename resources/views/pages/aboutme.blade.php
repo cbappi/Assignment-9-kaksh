@@ -13,7 +13,8 @@
             <div class="card-body">
                 <h2>Introduction</h2>
                 <p>
-                    Hi, I'm Abdul Wahed, M.Sc in physics from Chittagong University.
+                    Hi, I'm Abdul Wahed, I am Bangladeshi by birth.
+                    Currently I am living in Chittagong city
                     From 2005 to 2020 I worked in Merchandising Department of Garment Garment Sector. Now I am web developer as well as also a digital marketer and enjoy these sector.
                 </p>
             </div>
@@ -43,7 +44,7 @@
                     <strong>Sr. Merchandiser or Manager</strong> at Eastern Group<br>
                     <strong>Sr. Merchandiser</strong> at Crown Group<br>
                     <strong>As a Digital Marketer</strong> worked for local client<br>
-              
+
                 </p>
             </div>
         </div>
